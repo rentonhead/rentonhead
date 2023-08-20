@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next Js.**
 
-- 👨‍💻 All of my projects are available at [rentonhead.github.io](rentonhead.github.io)
+- 👨‍💻 All of my projects are available at [rentonhead.dev](rentonhead.dev)
 
 - 💬 Ask me about **react, javascript**
 
