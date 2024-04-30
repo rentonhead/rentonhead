@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/rentonhead" target="blank"><img src="https://img.shields.io/twitter/follow/rentonhead?logo=twitter&style=for-the-badge" alt="rentonhead" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js.**
+- 🌱 I’m currently learning **SwiftUI.**
 
 - 👨‍💻 All of my projects are available at [rentonhead.dev](rentonhead.dev)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **Swift,iOS**
 
 - 📫 How to reach me **hasancemilacar@gmail.com**
 
